@@ -1,3 +1,3 @@
-# WebWill.github.io
+# Web
 
 https://github.com/KutaniWilliam/WebWill.github.io.git
